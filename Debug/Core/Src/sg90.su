@@ -1,0 +1,3 @@
+sg90.c:11:6:sg90_init	24	static
+sg90.c:19:8:angle_to_pulsewidth	40	static
+sg90.c:52:6:sg90_set_angle	48	static
